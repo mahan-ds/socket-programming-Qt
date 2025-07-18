@@ -1,0 +1,17 @@
+# ninja log v6
+44	196	7745525834601553	mytcpserver_autogen/timestamp	9f4af471c7179301
+44	196	7745525834601553	mytcpserver_autogen/mocs_compilation.cpp	9f4af471c7179301
+2312	2497	7745525857312743	mytcpserver.exe	58785ee76e1e5bdd
+44	196	7745525834601553	E:/qt project/mytcpserver/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/mytcpserver_autogen/timestamp	9f4af471c7179301
+44	196	7745525834601553	E:/qt project/mytcpserver/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/mytcpserver_autogen/mocs_compilation.cpp	9f4af471c7179301
+198	2312	7745525836157587	CMakeFiles/mytcpserver.dir/main.cpp.obj	c5bf82808b223aac
+960	5386	7745515482225508	CMakeFiles/mytcpserver.dir/mytcpserver.cpp.obj	f06ba66c10edd385
+950	5567	7745515482125517	CMakeFiles/mytcpserver.dir/mytcpserver_autogen/mocs_compilation.cpp.obj	ba1b666a274d5266
+100	735	7745527222755011	mytcpserver_autogen/timestamp	9f4af471c7179301
+100	735	7745527222755011	mytcpserver_autogen/mocs_compilation.cpp	9f4af471c7179301
+100	735	7745527222755011	E:/qt project/mytcpserver/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/mytcpserver_autogen/timestamp	9f4af471c7179301
+100	735	7745527222755011	E:/qt project/mytcpserver/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/mytcpserver_autogen/mocs_compilation.cpp	9f4af471c7179301
+743	4604	7745527224138630	CMakeFiles/mytcpserver.dir/main.cpp.obj	c5bf82808b223aac
+747	4617	7745527224138630	CMakeFiles/mytcpserver.dir/mytcpserver.cpp.obj	f06ba66c10edd385
+737	4698	7745527224138630	CMakeFiles/mytcpserver.dir/mytcpserver_autogen/mocs_compilation.cpp.obj	ba1b666a274d5266
+4699	5052	7745527263770729	mytcpserver.exe	58785ee76e1e5bdd

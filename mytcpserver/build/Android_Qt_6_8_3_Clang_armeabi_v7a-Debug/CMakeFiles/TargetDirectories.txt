@@ -1,0 +1,12 @@
+E:/qt project/mytcpserver/build/Android_Qt_6_8_3_Clang_armeabi_v7a-Debug/CMakeFiles/apk.dir
+E:/qt project/mytcpserver/build/Android_Qt_6_8_3_Clang_armeabi_v7a-Debug/CMakeFiles/aab.dir
+E:/qt project/mytcpserver/build/Android_Qt_6_8_3_Clang_armeabi_v7a-Debug/CMakeFiles/aar.dir
+E:/qt project/mytcpserver/build/Android_Qt_6_8_3_Clang_armeabi_v7a-Debug/CMakeFiles/mytcpserver.dir
+E:/qt project/mytcpserver/build/Android_Qt_6_8_3_Clang_armeabi_v7a-Debug/CMakeFiles/edit_cache.dir
+E:/qt project/mytcpserver/build/Android_Qt_6_8_3_Clang_armeabi_v7a-Debug/CMakeFiles/rebuild_cache.dir
+E:/qt project/mytcpserver/build/Android_Qt_6_8_3_Clang_armeabi_v7a-Debug/CMakeFiles/list_install_components.dir
+E:/qt project/mytcpserver/build/Android_Qt_6_8_3_Clang_armeabi_v7a-Debug/CMakeFiles/install.dir
+E:/qt project/mytcpserver/build/Android_Qt_6_8_3_Clang_armeabi_v7a-Debug/CMakeFiles/install/local.dir
+E:/qt project/mytcpserver/build/Android_Qt_6_8_3_Clang_armeabi_v7a-Debug/CMakeFiles/install/strip.dir
+E:/qt project/mytcpserver/build/Android_Qt_6_8_3_Clang_armeabi_v7a-Debug/CMakeFiles/mytcpserver_autogen_timestamp_deps.dir
+E:/qt project/mytcpserver/build/Android_Qt_6_8_3_Clang_armeabi_v7a-Debug/CMakeFiles/mytcpserver_autogen.dir

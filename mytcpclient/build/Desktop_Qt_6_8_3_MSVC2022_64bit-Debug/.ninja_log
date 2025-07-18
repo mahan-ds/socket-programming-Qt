@@ -1,0 +1,9 @@
+# ninja log v6
+62	1151	7745525550747479	mytcpclient_autogen/timestamp	57b3931caf26c271
+62	1151	7745525550747479	mytcpclient_autogen/mocs_compilation.cpp	57b3931caf26c271
+62	1151	7745525550747479	E:/qt project/mytcpclient/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/mytcpclient_autogen/timestamp	57b3931caf26c271
+62	1151	7745525550747479	E:/qt project/mytcpclient/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/mytcpclient_autogen/mocs_compilation.cpp	57b3931caf26c271
+1164	6665	7745525552097456	CMakeFiles/mytcpclient.dir/main.cpp.obj	b969c5efc7f334c3
+1159	6705	7745525552047491	CMakeFiles/mytcpclient.dir/mytcpclient_autogen/mocs_compilation.cpp.obj	e9396c7d97f46b8
+1170	6806	7745525552157452	CMakeFiles/mytcpclient.dir/mytcpclient.cpp.obj	71b180b166c7b83b
+6806	7317	7745525608519854	mytcpclient.exe	cbe02ac57bee7528

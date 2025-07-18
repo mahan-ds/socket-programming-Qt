@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_mytcpserver_FILE E:/qt project/mytcpserver/build/Android_Qt_6_8_3_Clang_armeabi_v7a-Debug/mytcpserver)
+set(__QT_DEPLOY_TARGET_mytcpserver_TYPE EXECUTABLE)

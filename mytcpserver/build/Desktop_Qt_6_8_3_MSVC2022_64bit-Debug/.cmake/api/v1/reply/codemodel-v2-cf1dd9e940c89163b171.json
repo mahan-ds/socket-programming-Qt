@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c26faa588c63c3e5e47f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "mytcpserver",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "mytcpserver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mytcpserver-Debug-78cbf96b559600555107.json",
+					"name" : "mytcpserver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mytcpserver_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mytcpserver_autogen-Debug-0774c660a4bd89e0f139.json",
+					"name" : "mytcpserver_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mytcpserver_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mytcpserver_autogen_timestamp_deps-Debug-6eada5358d00f1c08c25.json",
+					"name" : "mytcpserver_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/qt project/mytcpserver/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug",
+		"source" : "E:/qt project/mytcpserver"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

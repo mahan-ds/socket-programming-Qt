@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_mytcpclient_FILE E:/qt project/mytcpclient/build/Android_Qt_6_8_3_Clang_arm64_v8a-Debug/mytcpclient)
+set(__QT_DEPLOY_TARGET_mytcpclient_TYPE EXECUTABLE)
